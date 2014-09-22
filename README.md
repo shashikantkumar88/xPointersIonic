@@ -1,0 +1,4 @@
+xPointersIonic
+==============
+
+Modifyed Cordova Plugin
